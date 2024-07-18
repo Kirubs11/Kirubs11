@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about web development, programming,
 I'm a software enthusiast with a love for problem-solving and creative projects. My journey in the tech world has been exciting, and I'm always eager to learn and explore new technologies.
 
 ## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirubs11&theme=radical&hide_border=true" alt="Kirubs11" />.
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirubs11&theme=shadow_red&hide_border=true" alt="Kirubs11" />.
 
 ## Skills and Technologies
 
