@@ -7,9 +7,6 @@ Welcome to my GitHub profile! I'm passionate about web development, programming,
 
 I'm a software enthusiast with a love for problem-solving and creative projects. My journey in the tech world has been exciting, and I'm always eager to learn and explore new technologies.
 
-## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirubs11&theme=shadow_red&hide_border=true" alt="Kirubs11" />.
-
 ## Skills and Technologies
 
 - **Web Development:** -HTML , CSS , JavaScript (JS).
@@ -26,6 +23,9 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
 </p>
+
+## Github Stats
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirubs11&theme=vision-friendly-dark&hide_border=false" alt="Kirubs11" />.
 
 ### Other Skills
 
