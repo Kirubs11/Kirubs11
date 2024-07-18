@@ -2,9 +2,6 @@
 # Hi there! 👋 I'm Kirubakaran
 
 Welcome to my GitHub profile! I'm passionate about web development, programming, and multimedia. Let me introduce myself and share my skills and projects with you.
-
-## Introduction
-
 I'm a software enthusiast with a love for problem-solving and creative projects. My journey in the tech world has been exciting, and I'm always eager to learn and explore new technologies.
 
 ## Skills and Technologies
