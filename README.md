@@ -3,8 +3,8 @@
 
 Welcome to my GitHub profile! I'm passionate about web development, programming, and multimedia. Let me introduce myself and share my skills and projects with you.
 I'm a software enthusiast with a love for problem-solving and creative projects. My journey in the tech world has been exciting, and I'm always eager to learn and explore new technologies.
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="photoshop" width="100" height="100"/></a>
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="photoshop" width="150" height="120"/></a>
 
 ## Skills and Technologies
 
