@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about web development, programming,
 I'm a software enthusiast with a love for problem-solving and creative projects. My journey in the tech world has been exciting, and I'm always eager to learn and explore new technologies.
 <br><br>
 
-## Skills and Technologies ⛏️
+## Skills & Technologies ⛏️
 
 - **Web Development:** -HTML , CSS , JavaScript (JS).
 - **Programming Languages:** - Java , C , Python.
