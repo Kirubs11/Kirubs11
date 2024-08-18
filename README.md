@@ -7,7 +7,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 ## Skills & Technologies ⛏️
 
 - **Web Development:** -HTML , CSS , JavaScript (JS).
-- **Programming Languages:** - Java , C , Python.
+- **Programming Languages:** - Java , C.
 - **Multimedia:** - Adobe Premiere Pro , DaVinci Resolve , After Effects , Adobe Photoshop.
 - **Other Tools:** - Git , GitHub, Visual Studio Code (VS Code).
   
